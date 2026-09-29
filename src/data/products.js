@@ -1,0 +1,8 @@
+export const products = [
+  { id: 1, name: "Essential Oversized Tee", price: 1299, category: "Men", badge: "BESTSELLER", image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80", description: "Heavy cotton oversized everyday tee.", sizes: ["S","M","L","XL"] },
+  { id: 2, name: "Classic Denim Jacket", price: 2999, category: "Unisex", badge: "NEW", image: "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80", description: "Easy-layer denim jacket for cool evenings.", sizes: ["S","M","L","XL"] },
+  { id: 3, name: "Relaxed Cargo Pants", price: 2199, category: "Men", badge: "TRENDING", image: "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=80", description: "Relaxed cargos with functional pockets.", sizes: ["S","M","L","XL"] },
+  { id: 4, name: "Everyday Hoodie", price: 2499, category: "Unisex", badge: "POPULAR", image: "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=80", description: "Soft brushed hoodie made for daily wear.", sizes: ["S","M","L","XL"] },
+  { id: 5, name: "Minimal Rib Top", price: 1199, category: "Women", badge: "NEW", image: "https://images.unsplash.com/photo-1564257577054-0c7e1a8cfee2?auto=format&fit=crop&w=900&q=80", description: "Minimal fitted top with soft stretch.", sizes: ["XS","S","M","L"] },
+  { id: 6, name: "Straight Fit Trousers", price: 1899, category: "Women", badge: "ESSENTIAL", image: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=900&q=80", description: "Clean straight-fit trousers for versatile styling.", sizes: ["S","M","L","XL"] }
+];

@@ -1,0 +1,2 @@
+import { Link } from "react-router-dom";
+export default function PaymentFailure(){return <main className="container result"><div className="resultCard"><h1>Payment cancelled</h1><p>No verified eSewa payment was recorded. You can return to checkout and try again.</p><Link className="btn dark" to="/checkout">TRY AGAIN</Link></div></main>}
