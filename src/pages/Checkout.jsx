@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useCart } from "../context/CartContext";
 import { useNavigate } from "react-router-dom";
 
-const API="const API="https://himal-wear-api.onrender.com";
+const API = "https://himal-wear-api.onrender.com";
 
 export default function Checkout(){
  const {cart,subtotal,clear}=useCart(); const nav=useNavigate();
